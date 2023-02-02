@@ -1,1 +1,1 @@
-https://grater-wms.onrender.com:80
+https://grater-wms.onrender.com
